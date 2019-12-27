@@ -1,6 +1,6 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Reference=*\G{E0BF4C60-8CD1-487F-A37B-A54256B95B8D}#1.0#0#..\Windows\SysWOW64\CrypKey.dll#William Castro Grijalva (Encryptación de datos)
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{E0BF4C60-8CD1-487F-A37B-A54256B95B8D}#1.0#0#C:\Windows\SysWOW64\CrypKey.dll#William Castro Grijalva (Encryptación de datos)
 Form=Form1.frm
 Startup="Form1"
 Command32=""
